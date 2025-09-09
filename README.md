@@ -1,6 +1,6 @@
 # 🛠️ Sistema de Gerenciamento de Chamados  
 
-Aplicação web para **gerenciamento de chamados**, permitindo que clientes cadastrados solicitem serviços para empresas cadastradas de forma prática e organizada.  
+Aplicação web desenvolvida durante o curso **FullStack Pro – Matheus Fraga**, para **gerenciamento de chamados**, permitindo que clientes cadastrados solicitem serviços para empresas cadastradas de forma prática e organizada.  
 
 ## ✨ Funcionalidades  
 - Cadastro de clientes e empresas  
